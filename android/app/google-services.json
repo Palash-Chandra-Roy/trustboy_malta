@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426080082956",
+    "project_id": "trustboy-app",
+    "storage_bucket": "trustboy-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426080082956:android:d9029e8fffd83059c02229",
+        "android_client_info": {
+          "package_name": "com.trustboy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2Aq0GwrgOg4zNrxoq1p8nQYEMi2FaAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
